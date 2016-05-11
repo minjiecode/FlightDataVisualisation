@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+  <style>
+      h2 {
+        text-align: center;
+        font-family:sans-serif;
+      }
+      h3 {
+        text-align: center;
+        font-family:sans-serif;
+      }
+      div {
+        margin-top: 30px;
+        margin-left:75px;
+        margin-right:75px;
+        font-family: sans-serif;
+        font-size: 14px;
+        margin-bottom:30px;
+      }
+
+
+  </style>
+
+  <script type="text/javascript">
+      function draw(data) {
+      
+      /*
+        D3.js setup code
+      */
+
+          "use strict";
+          var margin = 100,
+              width = 1500,
+              height = 400 - margin,
+              height2 = 100;
+
+          // add title and introduction
+
+          // d3.select("body")
+          //   .append("h2")
+          //   .text("Flight Categories Interactive Charts")
+          //   .style("font-family", "sans-serif") 
+
+          var svg3 = d3.select("body")
+            .append("svg")
+              .attr("width", width - margin)
+              .attr("height", 600)
+            .append('g')
+                .attr('class','chart');  
+
+          var svg1 = d3.select("body")
+            .append("svg")
+              .attr("width", width- margin)
+              .attr("height", height + margin)
+            .append('g')
+                .attr('class','chart');
+          
+          var svg2 = d3.select("body")
+            .append("svg")
+              .attr("width", width - margin)
+              .attr("height", 500)
+            .append('g')
+                .attr('class','chart'); 
+
+      
+
+      /*
+        Dimple.js Chart construction code
+      */  
+
+          ///Draw the first chart
+          var myChart3 = new dimple.chart(svg3, data);
+          myChart3.setBounds(margin, 30, width - 4*margin, 500);
+          var x = myChart3.addCategoryAxis("x", ["Year","Month"]);
+          myChart3.addMeasureAxis("y", "Number of Operations");
+          myChart3.addSeries("Categories", dimple.plot.line);
+          var myLegend3 = myChart3.addLegend(width - 2*margin, 150, 60, 300, "Right");
+          myChart3.draw();
+          
+
+          // Draw the second chart
+          var myChart = new dimple.chart(svg1, data);
+          myChart.setBounds(margin,50, width-4*margin, height)
+          myChart.data = dimple.filterData(data, "Categories", ['Air Carrier Delay', "Weather Delay", 'NAS Delay', 'Security Delay', 'Late Arrival Delay'])
+          var x = myChart.addCategoryAxis("x", "Year"); 
+          myChart.addMeasureAxis("y", 'Number of Operations');
+          myChart.addSeries('Categories', dimple.plot.line);
+          myChart.addSeries('Categories', dimple.plot.scatter);
+          var myLegend = myChart.addLegend(width - 2*margin, 250, 60, 300, "Right");
+          myChart.draw();
+
+          //Draw the third chart
+          var myChart2 = new dimple.chart(svg2, data);
+          myChart2.data = dimple.filterData(data, "Categories", ['Air Carrier Delay', "Weather Delay", 'NAS Delay', 'Security Delay', 'Late Arrival Delay'])
+          myChart2.setBounds(margin, 30, width - 4*margin, 180)
+          var x = myChart2.addCategoryAxis("x", "Month"); 
+          myChart2.addMeasureAxis("y", "Number of Operations");
+          myChart2.addSeries("Categories", dimple.plot.bar);
+          myChart2.draw();
+
+          // Orphan the legend so it will not be redrawed when filtering.
+          myChart.legends = [];
+          myChart3.legends = [];
+
+          // Add section title for Mychart1 and Mychart2
+          svg1.selectAll("title_text")
+              .data(["Part II: Delay Causes Comparison by Year and by Month"])
+              .enter()
+              .append("text")
+                .attr("x", 500)
+                .attr("y", function (d, i) { return 10 + i * 14; })
+                .style("font-family", "sans-serif")
+                .style("font-size", "14px")
+                .style("color", "Black")
+                .style("font-weight", "bold")
+                .text(function (d) { return d; });
+
+          // Add instuction to interact with the legend for Mychart2 and Mychart3
+          svg1.selectAll("title_text")
+              .data(["Click legend to","show/hide causes:"])
+              .enter()
+              .append("text")
+                .attr("x", 1245)
+                .attr("y", function (d, i) { return 230 + i * 14; })
+                .style("font-family", "sans-serif")
+                .style("font-size", "10px")
+                .style("color", "Black")
+                .text(function (d) { return d; });
+
+
+          // Set up the second filter for MyChart2 and MyChart3
+          var filterValues = ['Air Carrier Delay', "Weather Delay", 'NAS Delay', 'Security Delay', 'Late Arrival Delay'];
+          // Get all the rectangles from our the orphaned legend
+          myLegend.shapes.selectAll("rect")
+            // Add a click event to each rectangle
+            .on("click", function (e) {
+              // This indicates whether the item is already visible or not
+              var hide = false;
+              var newFilters = [];
+              // If the filters contain the clicked shape hide it
+              filterValues.forEach(function (f) {
+                if (f === e.aggField.slice(-1)[0]) {
+                  hide = true;
+                } else {
+                  newFilters.push(f);
+                }
+              });
+              // Hide the shape or show it
+              if (hide) {
+                d3.select(this).style("opacity", 0.2);
+              } else {
+                newFilters.push(e.aggField.slice(-1)[0]);
+                d3.select(this).style("opacity", 0.8);
+              }
+              filterValues = newFilters;
+              // Filter the data
+              myChart.data = dimple.filterData(data, "Categories", filterValues);
+              //Set the transition time
+              myChart.draw(800);
+
+              myChart2.data = dimple.filterData(data, "Categories", filterValues);
+              //Set the transition time
+              myChart2.draw(800);
+            });
+
+          // Add section title for Mychart1 
+          svg3.selectAll("title_text")
+              .data(["Part I: Overall Trend from 2004 to 2015"])
+              .enter()
+              .append("text")
+                .attr("x", 550)
+                .attr("y", function (d, i) { return 10 + i * 14; })
+                .style("font-family", "sans-serif")
+                .style("font-size", "14px")
+                .style("color", "Black")
+                .style("font-weight", "bold")
+                .text(function (d) { return d; });
+
+          svg3.selectAll("title_text")
+              .data(["Click legend to","show/hide causes:"])
+              .enter()
+              .append("text")
+                .attr("x", 1245)
+                .attr("y", function (d, i) { return 130 + i * 14; })
+                .style("font-family", "sans-serif")
+                .style("font-size", "10px")
+                .style("color", "Black")
+                .text(function (d) { return d; });
+
+          var filterValues3 = dimple.getUniqueValues(data, "Categories");
+
+          myLegend3.shapes.selectAll("rect")
+            // Add a click event to each rectangle
+            .on("click", function (e) {
+              // This indicates whether the item is already visible or not
+              var hide = false;
+              var newFilters3 = [];
+              // If the filters contain the clicked shape hide it
+              filterValues3.forEach(function (f) {
+                if (f === e.aggField.slice(-1)[0]) {
+                  hide = true;
+                } else {
+                  newFilters3.push(f);
+                }
+              });
+              // Hide the shape or show it
+              if (hide) {
+                d3.select(this).style("opacity", 0.2);
+              } else {
+                newFilters3.push(e.aggField.slice(-1)[0]);
+                d3.select(this).style("opacity", 0.8);
+              }
+              filterValues3 = newFilters3;
+              myChart3.data = dimple.filterData(data, "Categories", filterValues3);
+              //Set the transition time
+              myChart3.draw(800);
+            });
+        };
+      </script>
+  </head>
+<body>
+  <h2> Airline On-Time Statistics and Delay Causes(2004 - 2015)</h2>
+    <h3>Interactive Charts by Jie Min</h3>
+  <div>
+    <p>This interactive charts shows you the comparison of flight Categoriess in the United States from year 2004 to 2015. The data is collected by Bureau of Transportation Statistics and visualized by Jie Min.<br> <br>The causes of the delay are categoried into five groups:
+    </p>
+    <ul>
+      <li>Air Carrier: The cause of the cancellation or delay was due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.).</li>
+      <li>Extreme Weather: Significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane.</li>
+      <li>National Aviation System (NAS): Delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control.</li>
+      <li>Late-arriving aircraft: A previous flight with same aircraft arrived late, causing the present flight to depart late.</li>
+      </li>Security: Delays or cancellations caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas.
+    </ul>
+    <b> The charts are interactive. You can click the legend on the right hand side the charts to see the cause individually or compare different causes. </b>
+  </div>
+
+  <script type="text/javascript">
+  /*
+    Use D3 (not dimple.js) to load the TSV file
+    and pass the contents of it to the draw function
+    */
+  d3.tsv("data4.tsv", draw);
+  </script>
+</body>
+
+</html>

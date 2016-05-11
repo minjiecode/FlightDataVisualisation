@@ -1,0 +1,1009 @@
+	Year	Month	Categories	Number of Operations
+1	2004	1	Total Operation	583987
+2	2005	1	Total Operation	594923
+3	2006	1	Total Operation	581287
+4	2007	1	Total Operation	621559
+5	2008	1	Total Operation	605763
+6	2009	1	Total Operation	532337
+7	2010	1	Total Operation	521806
+8	2011	1	Total Operation	494400
+9	2012	1	Total Operation	486133
+10	2013	1	Total Operation	509519
+11	2014	1	Total Operation	471949
+12	2015	1	Total Operation	469967
+13	2004	2	Total Operation	553876
+14	2005	2	Total Operation	545332
+15	2006	2	Total Operation	531247
+16	2007	2	Total Operation	565604
+17	2008	2	Total Operation	569231
+18	2009	2	Total Operation	488410
+19	2010	2	Total Operation	483268
+20	2011	2	Total Operation	455515
+21	2012	2	Total Operation	464826
+22	2013	2	Total Operation	469746
+23	2014	2	Total Operation	430602
+24	2015	2	Total Operation	429191
+25	2004	3	Total Operation	601412
+26	2005	3	Total Operation	617540
+27	2006	3	Total Operation	605217
+28	2007	3	Total Operation	639209
+29	2008	3	Total Operation	616083
+30	2009	3	Total Operation	557420
+31	2010	3	Total Operation	549261
+32	2011	3	Total Operation	526687
+33	2012	3	Total Operation	521628
+34	2013	3	Total Operation	552312
+35	2014	3	Total Operation	503757
+36	2015	3	Total Operation	504311
+37	2004	4	Total Operation	582970
+38	2005	4	Total Operation	594492
+39	2006	4	Total Operation	585351
+40	2007	4	Total Operation	614648
+41	2008	4	Total Operation	598126
+42	2009	4	Total Operation	537792
+43	2010	4	Total Operation	529330
+44	2011	4	Total Operation	507024
+45	2012	4	Total Operation	505218
+46	2013	4	Total Operation	536393
+47	2014	4	Total Operation	483499
+48	2015	4	Total Operation	485151
+49	2004	5	Total Operation	594457
+50	2005	5	Total Operation	614802
+51	2006	5	Total Operation	602919
+52	2007	5	Total Operation	631609
+53	2008	5	Total Operation	606292
+54	2009	5	Total Operation	546832
+55	2010	5	Total Operation	542747
+56	2011	5	Total Operation	520612
+57	2012	5	Total Operation	518423
+58	2013	5	Total Operation	548642
+59	2014	5	Total Operation	499278
+60	2015	5	Total Operation	496993
+61	2004	6	Total Operation	588792
+62	2005	6	Total Operation	609195
+63	2006	6	Total Operation	598315
+64	2007	6	Total Operation	629280
+65	2008	6	Total Operation	608665
+66	2009	6	Total Operation	557594
+67	2010	6	Total Operation	551686
+68	2011	6	Total Operation	528587
+69	2012	6	Total Operation	526933
+70	2013	6	Total Operation	552141
+71	2014	6	Total Operation	502617
+72	2015	6	Total Operation	503897
+73	2004	7	Total Operation	614166
+74	2005	7	Total Operation	627961
+75	2006	7	Total Operation	621244
+76	2007	7	Total Operation	648560
+77	2008	7	Total Operation	627931
+78	2009	7	Total Operation	580133
+79	2010	7	Total Operation	570788
+80	2011	7	Total Operation	547218
+81	2012	7	Total Operation	545131
+82	2013	7	Total Operation	571623
+83	2014	7	Total Operation	520880
+84	2015	7	Total Operation	520718
+85	2004	8	Total Operation	623107
+86	2005	8	Total Operation	630904
+87	2006	8	Total Operation	628732
+88	2007	8	Total Operation	653279
+89	2008	8	Total Operation	612277
+90	2009	8	Total Operation	568301
+91	2010	8	Total Operation	569217
+92	2011	8	Total Operation	541442
+93	2012	8	Total Operation	540793
+94	2013	8	Total Operation	562921
+95	2014	8	Total Operation	507491
+96	2015	8	Total Operation	510536
+97	2004	9	Total Operation	585125
+98	2005	9	Total Operation	574253
+99	2006	9	Total Operation	584937
+100	2007	9	Total Operation	600187
+101	2008	9	Total Operation	540906
+102	2009	9	Total Operation	510852
+103	2010	9	Total Operation	526107
+104	2011	9	Total Operation	487468
+105	2012	9	Total Operation	490199
+106	2013	9	Total Operation	510805
+107	2014	9	Total Operation	469489
+108	2015	9	Total Operation	464946
+109	2004	10	Total Operation	610037
+110	2005	10	Total Operation	592712
+111	2006	10	Total Operation	611718
+112	2007	10	Total Operation	629992
+113	2008	10	Total Operation	556205
+114	2009	10	Total Operation	531799
+115	2010	10	Total Operation	545518
+116	2011	10	Total Operation	504395
+117	2012	10	Total Operation	515254
+118	2013	10	Total Operation	535344
+119	2014	10	Total Operation	491011
+120	2015	10	Total Operation	486165
+121	2004	11	Total Operation	584610
+122	2005	11	Total Operation	566138
+123	2006	11	Total Operation	586197
+124	2007	11	Total Operation	605149
+125	2008	11	Total Operation	523271
+126	2009	11	Total Operation	509540
+127	2010	11	Total Operation	520999
+128	2011	11	Total Operation	478040
+129	2012	11	Total Operation	488006
+130	2013	11	Total Operation	503296
+131	2014	11	Total Operation	462054
+132	2015	11	Total Operation	467971
+133	2004	12	Total Operation	606731
+134	2005	12	Total Operation	572343
+135	2006	12	Total Operation	604758
+136	2007	12	Total Operation	616382
+137	2008	12	Total Operation	544956
+138	2009	12	Total Operation	529269
+139	2010	12	Total Operation	539382
+140	2011	12	Total Operation	493888
+141	2012	12	Total Operation	494218
+142	2013	12	Total Operation	516739
+143	2014	12	Total Operation	477183
+144	2015	12	Total Operation	479230
+145	2004	1	Total Flight Delay	128236
+146	2005	1	Total Flight Delay	143316
+147	2006	1	Total Flight Delay	112299
+148	2007	1	Total Flight Delay	150144
+149	2008	1	Total Flight Delay	148807
+150	2009	1	Total Flight Delay	108656
+151	2010	1	Total Flight Delay	96928
+152	2011	1	Total Flight Delay	97078
+153	2012	1	Total Flight Delay	70908
+154	2013	1	Total Flight Delay	88210
+155	2014	1	Total Flight Delay	119994
+156	2015	1	Total Flight Delay	95951
+157	2004	2	Total Flight Delay	114517
+158	2005	2	Total Flight Delay	111897
+159	2006	2	Total Flight Delay	118610
+160	2007	2	Total Flight Delay	158435
+161	2008	2	Total Flight Delay	156237
+162	2009	2	Total Flight Delay	78087
+163	2010	2	Total Flight Delay	95021
+164	2011	2	Total Flight Delay	92709
+165	2012	2	Total Flight Delay	58987
+166	2013	2	Total Flight Delay	83565
+167	2014	2	Total Flight Delay	101440
+168	2015	2	Total Flight Delay	95179
+169	2004	3	Total Flight Delay	104031
+170	2005	3	Total Flight Delay	131384
+171	2006	3	Total Flight Delay	135897
+172	2007	3	Total Flight Delay	152689
+173	2008	3	Total Flight Delay	157370
+174	2009	3	Total Flight Delay	107408
+175	2010	3	Total Flight Delay	100534
+176	2011	3	Total Flight Delay	101542
+177	2012	3	Total Flight Delay	86476
+178	2013	3	Total Flight Delay	101743
+179	2014	3	Total Flight Delay	102297
+180	2015	3	Total Flight Delay	95452
+181	2004	4	Total Flight Delay	93754
+182	2005	4	Total Flight Delay	90137
+183	2006	4	Total Flight Delay	118715
+184	2007	4	Total Flight Delay	136991
+185	2008	4	Total Flight Delay	122169
+186	2009	4	Total Flight Delay	102681
+187	2010	4	Total Flight Delay	73184
+188	2011	4	Total Flight Delay	112528
+189	2012	4	Total Flight Delay	63639
+190	2013	4	Total Flight Delay	111306
+191	2014	4	Total Flight Delay	91806
+192	2015	4	Total Flight Delay	82247
+193	2004	5	Total Flight Delay	121019
+194	2005	5	Total Flight Delay	93619
+195	2006	5	Total Flight Delay	122693
+196	2007	5	Total Flight Delay	131298
+197	2008	5	Total Flight Delay	120126
+198	2009	5	Total Flight Delay	100688
+199	2010	5	Total Flight Delay	100683
+200	2011	5	Total Flight Delay	107145
+201	2012	5	Total Flight Delay	80453
+202	2013	5	Total Flight Delay	105278
+203	2014	5	Total Flight Delay	104145
+204	2015	5	Total Flight Delay	89645
+205	2004	6	Total Flight Delay	148726
+206	2005	6	Total Flight Delay	139742
+207	2006	6	Total Flight Delay	150683
+208	2007	6	Total Flight Delay	181502
+209	2008	6	Total Flight Delay	164260
+210	2009	6	Total Flight Delay	122886
+211	2010	6	Total Flight Delay	120007
+212	2011	6	Total Flight Delay	111137
+213	2012	6	Total Flight Delay	94684
+214	2013	6	Total Flight Delay	143184
+215	2014	6	Total Flight Delay	129706
+216	2015	6	Total Flight Delay	115742
+217	2004	7	Total Flight Delay	135999
+218	2005	7	Total Flight Delay	166767
+219	2006	7	Total Flight Delay	150771
+220	2007	7	Total Flight Delay	180319
+221	2008	7	Total Flight Delay	140050
+222	2009	7	Total Flight Delay	121429
+223	2010	7	Total Flight Delay	122900
+224	2011	7	Total Flight Delay	110478
+225	2012	7	Total Flight Delay	121396
+226	2013	7	Total Flight Delay	142559
+227	2014	7	Total Flight Delay	117151
+228	2015	7	Total Flight Delay	107627
+229	2004	8	Total Flight Delay	123884
+230	2005	8	Total Flight Delay	141431
+231	2006	8	Total Flight Delay	140784
+232	2007	8	Total Flight Delay	170851
+233	2008	8	Total Flight Delay	120481
+234	2009	8	Total Flight Delay	108382
+235	2010	8	Total Flight Delay	97597
+236	2011	8	Total Flight Delay	96632
+237	2012	8	Total Flight Delay	104434
+238	2013	8	Total Flight Delay	112650
+239	2014	8	Total Flight Delay	105706
+240	2015	8	Total Flight Delay	94113
+241	2004	9	Total Flight Delay	75147
+242	2005	9	Total Flight Delay	87235
+243	2006	9	Total Flight Delay	127900
+244	2007	9	Total Flight Delay	102383
+245	2008	9	Total Flight Delay	71149
+246	2009	9	Total Flight Delay	66762
+247	2010	9	Total Flight Delay	72738
+248	2011	9	Total Flight Delay	73512
+249	2012	9	Total Flight Delay	77075
+250	2013	9	Total Flight Delay	77134
+251	2014	9	Total Flight Delay	81178
+252	2015	9	Total Flight Delay	60061
+253	2004	10	Total Flight Delay	108341
+254	2005	10	Total Flight Delay	99904
+255	2006	10	Total Flight Delay	153067
+256	2007	10	Total Flight Delay	128977
+257	2008	10	Total Flight Delay	73517
+258	2009	10	Total Flight Delay	114549
+259	2010	10	Total Flight Delay	82391
+260	2011	10	Total Flight Delay	68219
+261	2012	10	Total Flight Delay	86545
+262	2013	10	Total Flight Delay	81338
+263	2014	10	Total Flight Delay	92285
+264	2015	10	Total Flight Delay	60079
+265	2004	11	Total Flight Delay	113696
+266	2005	11	Total Flight Delay	106543
+267	2006	11	Total Flight Delay	126990
+268	2007	11	Total Flight Delay	113680
+269	2008	11	Total Flight Delay	81922
+270	2009	11	Total Flight Delay	54740
+271	2010	11	Total Flight Delay	83138
+272	2011	11	Total Flight Delay	66279
+273	2012	11	Total Flight Delay	63834
+274	2013	11	Total Flight Delay	77352
+275	2014	11	Total Flight Delay	84657
+276	2015	11	Total Flight Delay	70571
+277	2004	12	Total Flight Delay	154041
+278	2005	12	Total Flight Delay	154090
+279	2006	12	Total Flight Delay	157128
+280	2007	12	Total Flight Delay	196759
+281	2008	12	Total Flight Delay	168647
+282	2009	12	Total Flight Delay	132020
+283	2010	12	Total Flight Delay	129763
+284	2011	12	Total Flight Delay	72613
+285	2012	12	Total Flight Delay	106727
+286	2013	12	Total Flight Delay	144958
+287	2014	12	Total Flight Delay	110163
+288	2015	12	Total Flight Delay	96772
+289	2004	1	Air Carrier Delay	32476.12
+290	2005	1	Air Carrier Delay	38760.56
+291	2006	1	Air Carrier Delay	33748.89
+292	2007	1	Air Carrier Delay	41988.66
+293	2008	1	Air Carrier Delay	41120.34
+294	2009	1	Air Carrier Delay	27090.45
+295	2010	1	Air Carrier Delay	27565.26
+296	2011	1	Air Carrier Delay	27941.69
+297	2012	1	Air Carrier Delay	19751.64
+298	2013	1	Air Carrier Delay	25380.09
+299	2014	1	Air Carrier Delay	36148.44
+300	2015	1	Air Carrier Delay	28267.23
+301	2004	2	Air Carrier Delay	26755
+302	2005	2	Air Carrier Delay	29474.6
+303	2006	2	Air Carrier Delay	32310.75
+304	2007	2	Air Carrier Delay	46118.77
+305	2008	2	Air Carrier Delay	40454.19
+306	2009	2	Air Carrier Delay	20349.33
+307	2010	2	Air Carrier Delay	25639.77
+308	2011	2	Air Carrier Delay	24790.45
+309	2012	2	Air Carrier Delay	17904.23
+310	2013	2	Air Carrier Delay	23290.33
+311	2014	2	Air Carrier Delay	29193.69
+312	2015	2	Air Carrier Delay	27635.04
+313	2004	3	Air Carrier Delay	25760
+314	2005	3	Air Carrier Delay	36290.37
+315	2006	3	Air Carrier Delay	37965.18
+316	2007	3	Air Carrier Delay	46821.47
+317	2008	3	Air Carrier Delay	43776.14
+318	2009	3	Air Carrier Delay	26972.89
+319	2010	3	Air Carrier Delay	28794.32
+320	2011	3	Air Carrier Delay	28200.64
+321	2012	3	Air Carrier Delay	25564.02
+322	2013	3	Air Carrier Delay	27907.62
+323	2014	3	Air Carrier Delay	30754.82
+324	2015	3	Air Carrier Delay	30094.13
+325	2004	4	Air Carrier Delay	23687.14
+326	2005	4	Air Carrier Delay	26410.87
+327	2006	4	Air Carrier Delay	33286.24
+328	2007	4	Air Carrier Delay	39201.96
+329	2008	4	Air Carrier Delay	33646.65
+330	2009	4	Air Carrier Delay	25733.11
+331	2010	4	Air Carrier Delay	22747.35
+332	2011	4	Air Carrier Delay	28790.24
+333	2012	4	Air Carrier Delay	20399.69
+334	2013	4	Air Carrier Delay	28352.74
+335	2014	4	Air Carrier Delay	25834.27
+336	2015	4	Air Carrier Delay	24683
+337	2004	5	Air Carrier Delay	27718.61
+338	2005	5	Air Carrier Delay	27116.74
+339	2006	5	Air Carrier Delay	33604.77
+340	2007	5	Air Carrier Delay	36452.54
+341	2008	5	Air Carrier Delay	31014.36
+342	2009	5	Air Carrier Delay	24928.25
+343	2010	5	Air Carrier Delay	27323.45
+344	2011	5	Air Carrier Delay	28493.34
+345	2012	5	Air Carrier Delay	23782.99
+346	2013	5	Air Carrier Delay	28141.11
+347	2014	5	Air Carrier Delay	30156.04
+348	2015	5	Air Carrier Delay	26388.3
+349	2004	6	Air Carrier Delay	35700.07
+350	2005	6	Air Carrier Delay	38249.91
+351	2006	6	Air Carrier Delay	45051.1
+352	2007	6	Air Carrier Delay	51284.66
+353	2008	6	Air Carrier Delay	41260.54
+354	2009	6	Air Carrier Delay	33104.42
+355	2010	6	Air Carrier Delay	34714.67
+356	2011	6	Air Carrier Delay	32258.62
+357	2012	6	Air Carrier Delay	29611.72
+358	2013	6	Air Carrier Delay	37461.68
+359	2014	6	Air Carrier Delay	35477.04
+360	2015	6	Air Carrier Delay	35128.13
+361	2004	7	Air Carrier Delay	36633.11
+362	2005	7	Air Carrier Delay	44619.28
+363	2006	7	Air Carrier Delay	46795.3
+364	2007	7	Air Carrier Delay	52307.24
+365	2008	7	Air Carrier Delay	39546.97
+366	2009	7	Air Carrier Delay	34397.59
+367	2010	7	Air Carrier Delay	36332.03
+368	2011	7	Air Carrier Delay	31966.85
+369	2012	7	Air Carrier Delay	34433.46
+370	2013	7	Air Carrier Delay	38675.08
+371	2014	7	Air Carrier Delay	34323.7
+372	2015	7	Air Carrier Delay	32664.27
+373	2004	8	Air Carrier Delay	32262.7
+374	2005	8	Air Carrier Delay	40534.52
+375	2006	8	Air Carrier Delay	41366.27
+376	2007	8	Air Carrier Delay	50258.88
+377	2008	8	Air Carrier Delay	35661.47
+378	2009	8	Air Carrier Delay	31007.69
+379	2010	8	Air Carrier Delay	29346.68
+380	2011	8	Air Carrier Delay	28600.35
+381	2012	8	Air Carrier Delay	31332.15
+382	2013	8	Air Carrier Delay	32586.52
+383	2014	8	Air Carrier Delay	30522.99
+384	2015	8	Air Carrier Delay	29043.78
+385	2004	9	Air Carrier Delay	21722.48
+386	2005	9	Air Carrier Delay	26816.2
+387	2006	9	Air Carrier Delay	33557.33
+388	2007	9	Air Carrier Delay	31517.26
+389	2008	9	Air Carrier Delay	21720.65
+390	2009	9	Air Carrier Delay	19847.44
+391	2010	9	Air Carrier Delay	20968.62
+392	2011	9	Air Carrier Delay	20902.35
+393	2012	9	Air Carrier Delay	22817.26
+394	2013	9	Air Carrier Delay	22732.16
+395	2014	9	Air Carrier Delay	22648.28
+396	2015	9	Air Carrier Delay	19044.26
+397	2004	10	Air Carrier Delay	27532.47
+398	2005	10	Air Carrier Delay	28196.37
+399	2006	10	Air Carrier Delay	38779.14
+400	2007	10	Air Carrier Delay	35459.42
+401	2008	10	Air Carrier Delay	21402.17
+402	2009	10	Air Carrier Delay	27996.91
+403	2010	10	Air Carrier Delay	24199.2
+404	2011	10	Air Carrier Delay	20336.61
+405	2012	10	Air Carrier Delay	25585.18
+406	2013	10	Air Carrier Delay	23875.24
+407	2014	10	Air Carrier Delay	25005.4
+408	2015	10	Air Carrier Delay	19578.66
+409	2004	11	Air Carrier Delay	29384.92
+410	2005	11	Air Carrier Delay	30630.96
+411	2006	11	Air Carrier Delay	34196.83
+412	2007	11	Air Carrier Delay	32646.15
+413	2008	11	Air Carrier Delay	20333.02
+414	2009	11	Air Carrier Delay	17287.44
+415	2010	11	Air Carrier Delay	23883.64
+416	2011	11	Air Carrier Delay	18967.92
+417	2012	11	Air Carrier Delay	20815.64
+418	2013	11	Air Carrier Delay	23316.06
+419	2014	11	Air Carrier Delay	23981.88
+420	2015	11	Air Carrier Delay	21543.5
+421	2004	12	Air Carrier Delay	43944.83
+422	2005	12	Air Carrier Delay	46126.64
+423	2006	12	Air Carrier Delay	47154.87
+424	2007	12	Air Carrier Delay	56539.58
+425	2008	12	Air Carrier Delay	41664.36
+426	2009	12	Air Carrier Delay	35027.18
+427	2010	12	Air Carrier Delay	37569.45
+428	2011	12	Air Carrier Delay	22047.48
+429	2012	12	Air Carrier Delay	30682.24
+430	2013	12	Air Carrier Delay	41488.12
+431	2014	12	Air Carrier Delay	32541.39
+432	2015	12	Air Carrier Delay	29383.56
+433	2004	1	Weather Delay	7907.54
+434	2005	1	Weather Delay	8202.75
+435	2006	1	Weather Delay	5039.17
+436	2007	1	Weather Delay	7031.83
+437	2008	1	Weather Delay	5357.61
+438	2009	1	Weather Delay	5083.91
+439	2010	1	Weather Delay	3406.5
+440	2011	1	Weather Delay	2951.02
+441	2012	1	Weather Delay	2657.77
+442	2013	1	Weather Delay	2792.01
+443	2014	1	Weather Delay	5959.57
+444	2015	1	Weather Delay	3311.58
+445	2004	2	Weather Delay	5848.4
+446	2005	2	Weather Delay	4773.6
+447	2006	2	Weather Delay	4862.9
+448	2007	2	Weather Delay	7810.05
+449	2008	2	Weather Delay	6781.73
+450	2009	2	Weather Delay	2090.65
+451	2010	2	Weather Delay	3621.08
+452	2011	2	Weather Delay	3133.58
+453	2012	2	Weather Delay	1628
+454	2013	2	Weather Delay	2619.08
+455	2014	2	Weather Delay	3185.67
+456	2015	2	Weather Delay	4580.42
+457	2004	3	Weather Delay	3493.54
+458	2005	3	Weather Delay	5427.3
+459	2006	3	Weather Delay	4929.66
+460	2007	3	Weather Delay	5114.39
+461	2008	3	Weather Delay	5745.9
+462	2009	3	Weather Delay	3463.87
+463	2010	3	Weather Delay	2995.45
+464	2011	3	Weather Delay	1684.98
+465	2012	3	Weather Delay	2656.83
+466	2013	3	Weather Delay	2621.12
+467	2014	3	Weather Delay	1966.47
+468	2015	3	Weather Delay	2348.12
+469	2004	4	Weather Delay	3129.09
+470	2005	4	Weather Delay	3401.33
+471	2006	4	Weather Delay	4086.91
+472	2007	4	Weather Delay	4320.84
+473	2008	4	Weather Delay	3310.25
+474	2009	4	Weather Delay	3702.37
+475	2010	4	Weather Delay	1747.3
+476	2011	4	Weather Delay	2804.14
+477	2012	4	Weather Delay	1960.63
+478	2013	4	Weather Delay	3015.98
+479	2014	4	Weather Delay	1935.74
+480	2015	4	Weather Delay	2772.98
+481	2004	5	Weather Delay	6590.67
+482	2005	5	Weather Delay	3765.82
+483	2006	5	Weather Delay	4929.63
+484	2007	5	Weather Delay	4827.75
+485	2008	5	Weather Delay	3237.06
+486	2009	5	Weather Delay	3401.92
+487	2010	5	Weather Delay	3259.06
+488	2011	5	Weather Delay	3551.65
+489	2012	5	Weather Delay	3020.23
+490	2013	5	Weather Delay	3212.35
+491	2014	5	Weather Delay	2834.86
+492	2015	5	Weather Delay	3639.07
+493	2004	6	Weather Delay	9338.61
+494	2005	6	Weather Delay	6782.53
+495	2006	6	Weather Delay	7543.95
+496	2007	6	Weather Delay	8955
+497	2008	6	Weather Delay	6925.65
+498	2009	6	Weather Delay	4630.26
+499	2010	6	Weather Delay	4091.14
+500	2011	6	Weather Delay	3529.58
+501	2012	6	Weather Delay	2612.5
+502	2013	6	Weather Delay	5730.93
+503	2014	6	Weather Delay	4507.15
+504	2015	6	Weather Delay	4362.28
+505	2004	7	Weather Delay	6610.29
+506	2005	7	Weather Delay	9527.63
+507	2006	7	Weather Delay	7164.72
+508	2007	7	Weather Delay	8536.13
+509	2008	7	Weather Delay	6339.75
+510	2009	7	Weather Delay	4320.66
+511	2010	7	Weather Delay	4481.12
+512	2011	7	Weather Delay	3520.75
+513	2012	7	Weather Delay	4461.19
+514	2013	7	Weather Delay	4361.41
+515	2014	7	Weather Delay	3663.27
+516	2015	7	Weather Delay	3246.54
+517	2004	8	Weather Delay	6573.75
+518	2005	8	Weather Delay	7231.91
+519	2006	8	Weather Delay	6245.33
+520	2007	8	Weather Delay	6724.55
+521	2008	8	Weather Delay	5036.51
+522	2009	8	Weather Delay	3912.54
+523	2010	8	Weather Delay	2643.38
+524	2011	8	Weather Delay	3808.9
+525	2012	8	Weather Delay	2874.02
+526	2013	8	Weather Delay	2754.72
+527	2014	8	Weather Delay	3432.33
+528	2015	8	Weather Delay	3453.29
+529	2004	9	Weather Delay	3241.75
+530	2005	9	Weather Delay	3157.29
+531	2006	9	Weather Delay	5401.02
+532	2007	9	Weather Delay	3335.62
+533	2008	9	Weather Delay	2171.46
+534	2009	9	Weather Delay	1897.5
+535	2010	9	Weather Delay	2160.73
+536	2011	9	Weather Delay	1790.13
+537	2012	9	Weather Delay	1650.18
+538	2013	9	Weather Delay	2064.41
+539	2014	9	Weather Delay	1824.5
+540	2015	9	Weather Delay	2021.54
+541	2004	10	Weather Delay	5146.37
+542	2005	10	Weather Delay	4048.48
+543	2006	10	Weather Delay	5821.52
+544	2007	10	Weather Delay	4017.85
+545	2008	10	Weather Delay	1445.04
+546	2009	10	Weather Delay	2768.31
+547	2010	10	Weather Delay	1689.55
+548	2011	10	Weather Delay	1322.86
+549	2012	10	Weather Delay	1286.92
+550	2013	10	Weather Delay	1171.89
+551	2014	10	Weather Delay	1654.33
+552	2015	10	Weather Delay	1166.03
+553	2004	11	Weather Delay	5895.29
+554	2005	11	Weather Delay	3895.45
+555	2006	11	Weather Delay	4633.95
+556	2007	11	Weather Delay	3073.99
+557	2008	11	Weather Delay	1951.39
+558	2009	11	Weather Delay	1044.2
+559	2010	11	Weather Delay	1633.12
+560	2011	11	Weather Delay	1222.84
+561	2012	11	Weather Delay	1067.99
+562	2013	11	Weather Delay	1557.64
+563	2014	11	Weather Delay	2129.55
+564	2015	11	Weather Delay	1985.02
+565	2004	12	Weather Delay	7830.84
+566	2005	12	Weather Delay	6467.69
+567	2006	12	Weather Delay	5879.39
+568	2007	12	Weather Delay	8558.88
+569	2008	12	Weather Delay	8337.09
+570	2009	12	Weather Delay	5548.98
+571	2010	12	Weather Delay	4125.61
+572	2011	12	Weather Delay	1642.61
+573	2012	12	Weather Delay	2923.2
+574	2013	12	Weather Delay	4915.47
+575	2014	12	Weather Delay	1941.94
+576	2015	12	Weather Delay	3149.84
+577	2004	1	NAS Delay	53962.63
+578	2005	1	NAS Delay	53315.67
+579	2006	1	NAS Delay	40691.1
+580	2007	1	NAS Delay	51816.21
+581	2008	1	NAS Delay	50995.2
+582	2009	1	NAS Delay	42787.24
+583	2010	1	NAS Delay	33910.76
+584	2011	1	NAS Delay	30251.08
+585	2012	1	NAS Delay	24413.46
+586	2013	1	NAS Delay	29175.97
+587	2014	1	NAS Delay	31142.98
+588	2015	1	NAS Delay	29878.63
+589	2004	2	NAS Delay	49882.69
+590	2005	2	NAS Delay	45484.89
+591	2006	2	NAS Delay	44202.82
+592	2007	2	NAS Delay	49955.22
+593	2008	2	NAS Delay	53265.42
+594	2009	2	NAS Delay	32121.79
+595	2010	2	NAS Delay	33234.45
+596	2011	2	NAS Delay	30678.15
+597	2012	2	NAS Delay	19219.06
+598	2013	2	NAS Delay	27469
+599	2014	2	NAS Delay	29814.63
+600	2015	2	NAS Delay	29530.35
+601	2004	3	NAS Delay	43941.12
+602	2005	3	NAS Delay	49332.46
+603	2006	3	NAS Delay	47597.56
+604	2007	3	NAS Delay	48670.17
+605	2008	3	NAS Delay	52761.95
+606	2009	3	NAS Delay	40615.54
+607	2010	3	NAS Delay	33112.36
+608	2011	3	NAS Delay	32416.17
+609	2012	3	NAS Delay	26020.5
+610	2013	3	NAS Delay	32640.37
+611	2014	3	NAS Delay	28706.47
+612	2015	3	NAS Delay	28283.47
+613	2004	4	NAS Delay	39973.99
+614	2005	4	NAS Delay	34262.11
+615	2006	4	NAS Delay	40895.02
+616	2007	4	NAS Delay	47409.91
+617	2008	4	NAS Delay	46027.21
+618	2009	4	NAS Delay	39818.77
+619	2010	4	NAS Delay	23529.76
+620	2011	4	NAS Delay	38365.46
+621	2012	4	NAS Delay	17980.6
+622	2013	4	NAS Delay	36241.43
+623	2014	4	NAS Delay	27787.54
+624	2015	4	NAS Delay	26000.96
+625	2004	5	NAS Delay	52072.72
+626	2005	5	NAS Delay	34716.65
+627	2006	5	NAS Delay	42630.94
+628	2007	5	NAS Delay	47298.93
+629	2008	5	NAS Delay	46887.57
+630	2009	5	NAS Delay	40266.25
+631	2010	5	NAS Delay	34756.48
+632	2011	5	NAS Delay	34733.92
+633	2012	5	NAS Delay	24628.89
+634	2013	5	NAS Delay	33564.67
+635	2014	5	NAS Delay	30168.31
+636	2015	5	NAS Delay	26555.12
+637	2004	6	NAS Delay	57482.82
+638	2005	6	NAS Delay	50167.31
+639	2006	6	NAS Delay	45871.8
+640	2007	6	NAS Delay	57463.92
+641	2008	6	NAS Delay	61857.5
+642	2009	6	NAS Delay	42867.34
+643	2010	6	NAS Delay	36184.7
+644	2011	6	NAS Delay	32034.99
+645	2012	6	NAS Delay	25463.19
+646	2013	6	NAS Delay	40690.36
+647	2014	6	NAS Delay	37150.33
+648	2015	6	NAS Delay	31691.81
+649	2004	7	NAS Delay	49518.67
+650	2005	7	NAS Delay	56824.97
+651	2006	7	NAS Delay	44475.76
+652	2007	7	NAS Delay	54799.24
+653	2008	7	NAS Delay	48839.9
+654	2009	7	NAS Delay	39981.97
+655	2010	7	NAS Delay	35428.97
+656	2011	7	NAS Delay	31132.06
+657	2012	7	NAS Delay	33080.75
+658	2013	7	NAS Delay	42275.96
+659	2014	7	NAS Delay	32072.78
+660	2015	7	NAS Delay	29068.14
+661	2004	8	NAS Delay	45377.85
+662	2005	8	NAS Delay	48696.04
+663	2006	8	NAS Delay	44264.94
+664	2007	8	NAS Delay	52783.15
+665	2008	8	NAS Delay	40870.96
+666	2009	8	NAS Delay	36550.16
+667	2010	8	NAS Delay	28857.14
+668	2011	8	NAS Delay	28110.52
+669	2012	8	NAS Delay	28459.32
+670	2013	8	NAS Delay	31869.1
+671	2014	8	NAS Delay	31142.75
+672	2015	8	NAS Delay	26605.48
+673	2004	9	NAS Delay	29336.92
+674	2005	9	NAS Delay	32368.96
+675	2006	9	NAS Delay	48983.73
+676	2007	9	NAS Delay	35330.74
+677	2008	9	NAS Delay	27576.02
+678	2009	9	NAS Delay	25112.18
+679	2010	9	NAS Delay	25309.26
+680	2011	9	NAS Delay	25164.84
+681	2012	9	NAS Delay	24426.95
+682	2013	9	NAS Delay	22541.33
+683	2014	9	NAS Delay	28068.14
+684	2015	9	NAS Delay	19332.35
+685	2004	10	NAS Delay	43257.11
+686	2005	10	NAS Delay	37765.65
+687	2006	10	NAS Delay	59237.62
+688	2007	10	NAS Delay	47530.67
+689	2008	10	NAS Delay	28728.48
+690	2009	10	NAS Delay	45289.41
+691	2010	10	NAS Delay	26125.29
+692	2011	10	NAS Delay	23222.68
+693	2012	10	NAS Delay	27930.84
+694	2013	10	NAS Delay	25131.65
+695	2014	10	NAS Delay	31810.09
+696	2015	10	NAS Delay	19783.91
+697	2004	11	NAS Delay	44133.93
+698	2005	11	NAS Delay	42320.68
+699	2006	11	NAS Delay	48186.19
+700	2007	11	NAS Delay	40998.64
+701	2008	11	NAS Delay	34440.1
+702	2009	11	NAS Delay	19899.03
+703	2010	11	NAS Delay	28045.24
+704	2011	11	NAS Delay	23422.31
+705	2012	11	NAS Delay	17965.25
+706	2013	11	NAS Delay	23113.57
+707	2014	11	NAS Delay	27392.93
+708	2015	11	NAS Delay	22636.54
+709	2004	12	NAS Delay	52198.67
+710	2005	12	NAS Delay	54125.42
+711	2006	12	NAS Delay	49275.42
+712	2007	12	NAS Delay	64201
+713	2008	12	NAS Delay	57610.81
+714	2009	12	NAS Delay	45335.07
+715	2010	12	NAS Delay	38122.48
+716	2011	12	NAS Delay	23162.46
+717	2012	12	NAS Delay	30580.38
+718	2013	12	NAS Delay	40134.5
+719	2014	12	NAS Delay	33377.58
+720	2015	12	NAS Delay	27317.73
+721	2004	1	Security Delay	423.71
+722	2005	1	Security Delay	397.69
+723	2006	1	Security Delay	238.25
+724	2007	1	Security Delay	347.57
+725	2008	1	Security Delay	404.1
+726	2009	1	Security Delay	209
+727	2010	1	Security Delay	437.8
+728	2011	1	Security Delay	346.28
+729	2012	1	Security Delay	117.65
+730	2013	1	Security Delay	182.66
+731	2014	1	Security Delay	144.17
+732	2015	1	Security Delay	148.22
+733	2004	2	Security Delay	341.72
+734	2005	2	Security Delay	214.43
+735	2006	2	Security Delay	462.39
+736	2007	2	Security Delay	416.4
+737	2008	2	Security Delay	308.43
+738	2009	2	Security Delay	118.69
+739	2010	2	Security Delay	315.01
+740	2011	2	Security Delay	210.28
+741	2012	2	Security Delay	128.86
+742	2013	2	Security Delay	123.31
+743	2014	2	Security Delay	105.57
+744	2015	2	Security Delay	111.35
+745	2004	3	Security Delay	279.75
+746	2005	3	Security Delay	458.67
+747	2006	3	Security Delay	474.37
+748	2007	3	Security Delay	395.83
+749	2008	3	Security Delay	457.29
+750	2009	3	Security Delay	197.84
+751	2010	3	Security Delay	332.13
+752	2011	3	Security Delay	203.3
+753	2012	3	Security Delay	124.24
+754	2013	3	Security Delay	200.5
+755	2014	3	Security Delay	111.74
+756	2015	3	Security Delay	149.04
+757	2004	4	Security Delay	260.49
+758	2005	4	Security Delay	218.76
+759	2006	4	Security Delay	460.5
+760	2007	4	Security Delay	386.61
+761	2008	4	Security Delay	240.05
+762	2009	4	Security Delay	146.36
+763	2010	4	Security Delay	231.34
+764	2011	4	Security Delay	227.94
+765	2012	4	Security Delay	120.36
+766	2013	4	Security Delay	199.63
+767	2014	4	Security Delay	112.58
+768	2015	4	Security Delay	96.66
+769	2004	5	Security Delay	236.61
+770	2005	5	Security Delay	183.63
+771	2006	5	Security Delay	233.77
+772	2007	5	Security Delay	348.07
+773	2008	5	Security Delay	255.51
+774	2009	5	Security Delay	169.78
+775	2010	5	Security Delay	184.27
+776	2011	5	Security Delay	235.04
+777	2012	5	Security Delay	175.75
+778	2013	5	Security Delay	171.49
+779	2014	5	Security Delay	147.65
+780	2015	5	Security Delay	142.48
+781	2004	6	Security Delay	422.19
+782	2005	6	Security Delay	299.69
+783	2006	6	Security Delay	330.26
+784	2007	6	Security Delay	585.26
+785	2008	6	Security Delay	294.52
+786	2009	6	Security Delay	237.61
+787	2010	6	Security Delay	210.64
+788	2011	6	Security Delay	232.89
+789	2012	6	Security Delay	197.22
+790	2013	6	Security Delay	216.21
+791	2014	6	Security Delay	163.54
+792	2015	6	Security Delay	168.72
+793	2004	7	Security Delay	407.24
+794	2005	7	Security Delay	407.75
+795	2006	7	Security Delay	322.09
+796	2007	7	Security Delay	637.22
+797	2008	7	Security Delay	317.05
+798	2009	7	Security Delay	212.57
+799	2010	7	Security Delay	258.71
+800	2011	7	Security Delay	143.03
+801	2012	7	Security Delay	211.23
+802	2013	7	Security Delay	218.49
+803	2014	7	Security Delay	155.43
+804	2015	7	Security Delay	182.79
+805	2004	8	Security Delay	371.32
+806	2005	8	Security Delay	472.32
+807	2006	8	Security Delay	1713.44
+808	2007	8	Security Delay	519.29
+809	2008	8	Security Delay	219.05
+810	2009	8	Security Delay	262.19
+811	2010	8	Security Delay	220.24
+812	2011	8	Security Delay	198.34
+813	2012	8	Security Delay	242.04
+814	2013	8	Security Delay	218.55
+815	2014	8	Security Delay	175.71
+816	2015	8	Security Delay	252.92
+817	2004	9	Security Delay	383.87
+818	2005	9	Security Delay	203.14
+819	2006	9	Security Delay	358.3
+820	2007	9	Security Delay	271.03
+821	2008	9	Security Delay	123.8
+822	2009	9	Security Delay	102.67
+823	2010	9	Security Delay	106.7
+824	2011	9	Security Delay	128.97
+825	2012	9	Security Delay	134.58
+826	2013	9	Security Delay	144.33
+827	2014	9	Security Delay	134.22
+828	2015	9	Security Delay	148.31
+829	2004	10	Security Delay	321
+830	2005	10	Security Delay	201.85
+831	2006	10	Security Delay	381.55
+832	2007	10	Security Delay	286.6
+833	2008	10	Security Delay	151.8
+834	2009	10	Security Delay	185.44
+835	2010	10	Security Delay	182.3
+836	2011	10	Security Delay	134.85
+837	2012	10	Security Delay	149.42
+838	2013	10	Security Delay	132.5
+839	2014	10	Security Delay	94.52
+840	2015	10	Security Delay	83.9
+841	2004	11	Security Delay	391.3
+842	2005	11	Security Delay	180.44
+843	2006	11	Security Delay	311.5
+844	2007	11	Security Delay	232.47
+845	2008	11	Security Delay	124.68
+846	2009	11	Security Delay	70.1
+847	2010	11	Security Delay	168.8
+848	2011	11	Security Delay	123.98
+849	2012	11	Security Delay	113.99
+850	2013	11	Security Delay	251.31
+851	2014	11	Security Delay	104.04
+852	2015	11	Security Delay	168.56
+853	2004	12	Security Delay	809.53
+854	2005	12	Security Delay	547.57
+855	2006	12	Security Delay	617.31
+856	2007	12	Security Delay	513.13
+857	2008	12	Security Delay	358.01
+858	2009	12	Security Delay	415.68
+859	2010	12	Security Delay	409.82
+860	2011	12	Security Delay	133.49
+861	2012	12	Security Delay	265.37
+862	2013	12	Security Delay	262.22
+863	2014	12	Security Delay	191.89
+864	2015	12	Security Delay	296.77
+865	2004	1	Late Arrival Delay	33466.32
+866	2005	1	Late Arrival Delay	42639.39
+867	2006	1	Late Arrival Delay	32581.57
+868	2007	1	Late Arrival Delay	48959.92
+869	2008	1	Late Arrival Delay	50929.57
+870	2009	1	Late Arrival Delay	33485.22
+871	2010	1	Late Arrival Delay	31607.82
+872	2011	1	Late Arrival Delay	35588.09
+873	2012	1	Late Arrival Delay	23967.53
+874	2013	1	Late Arrival Delay	30679.36
+875	2014	1	Late Arrival Delay	46598.98
+876	2015	1	Late Arrival Delay	34345.34
+877	2004	2	Late Arrival Delay	31689.46
+878	2005	2	Late Arrival Delay	31949.52
+879	2006	2	Late Arrival Delay	36771.38
+880	2007	2	Late Arrival Delay	54134.68
+881	2008	2	Late Arrival Delay	55427.13
+882	2009	2	Late Arrival Delay	23406.61
+883	2010	2	Late Arrival Delay	32210.83
+884	2011	2	Late Arrival Delay	33896.73
+885	2012	2	Late Arrival Delay	20106.89
+886	2013	2	Late Arrival Delay	30063.49
+887	2014	2	Late Arrival Delay	39140.38
+888	2015	2	Late Arrival Delay	33322.07
+889	2004	3	Late Arrival Delay	30556.63
+890	2005	3	Late Arrival Delay	39875.37
+891	2006	3	Late Arrival Delay	44930.16
+892	2007	3	Late Arrival Delay	51687.28
+893	2008	3	Late Arrival Delay	54629.32
+894	2009	3	Late Arrival Delay	36157.86
+895	2010	3	Late Arrival Delay	35299.92
+896	2011	3	Late Arrival Delay	39037.27
+897	2012	3	Late Arrival Delay	32110.37
+898	2013	3	Late Arrival Delay	38373.42
+899	2014	3	Late Arrival Delay	40757.29
+900	2015	3	Late Arrival Delay	34577.51
+901	2004	4	Late Arrival Delay	26703.63
+902	2005	4	Late Arrival Delay	25843.77
+903	2006	4	Late Arrival Delay	39986.48
+904	2007	4	Late Arrival Delay	45671.96
+905	2008	4	Late Arrival Delay	38945.2
+906	2009	4	Late Arrival Delay	33280.49
+907	2010	4	Late Arrival Delay	24928.16
+908	2011	4	Late Arrival Delay	42340.27
+909	2012	4	Late Arrival Delay	23177.94
+910	2013	4	Late Arrival Delay	43496.55
+911	2014	4	Late Arrival Delay	36135.82
+912	2015	4	Late Arrival Delay	28693.24
+913	2004	5	Late Arrival Delay	34400.35
+914	2005	5	Late Arrival Delay	27836.37
+915	2006	5	Late Arrival Delay	41294.23
+916	2007	5	Late Arrival Delay	42370.72
+917	2008	5	Late Arrival Delay	38731.78
+918	2009	5	Late Arrival Delay	31921.77
+919	2010	5	Late Arrival Delay	35160.12
+920	2011	5	Late Arrival Delay	40131.16
+921	2012	5	Late Arrival Delay	28845.11
+922	2013	5	Late Arrival Delay	40188.4
+923	2014	5	Late Arrival Delay	40838.42
+924	2015	5	Late Arrival Delay	32919.97
+925	2004	6	Late Arrival Delay	45782.56
+926	2005	6	Late Arrival Delay	44242.79
+927	2006	6	Late Arrival Delay	51885.59
+928	2007	6	Late Arrival Delay	63213.23
+929	2008	6	Late Arrival Delay	53921.58
+930	2009	6	Late Arrival Delay	42046.68
+931	2010	6	Late Arrival Delay	44806.04
+932	2011	6	Late Arrival Delay	43080.98
+933	2012	6	Late Arrival Delay	36799.37
+934	2013	6	Late Arrival Delay	59085.04
+935	2014	6	Late Arrival Delay	52407.9
+936	2015	6	Late Arrival Delay	44390.9
+937	2004	7	Late Arrival Delay	42829.5
+938	2005	7	Late Arrival Delay	55387.43
+939	2006	7	Late Arrival Delay	52013.07
+940	2007	7	Late Arrival Delay	64039.29
+941	2008	7	Late Arrival Delay	45006.52
+942	2009	7	Late Arrival Delay	42516.58
+943	2010	7	Late Arrival Delay	46398.99
+944	2011	7	Late Arrival Delay	43715.41
+945	2012	7	Late Arrival Delay	49209.54
+946	2013	7	Late Arrival Delay	57028.33
+947	2014	7	Late Arrival Delay	46935.77
+948	2015	7	Late Arrival Delay	42465.66
+949	2004	8	Late Arrival Delay	39298.73
+950	2005	8	Late Arrival Delay	44496.22
+951	2006	8	Late Arrival Delay	47194.11
+952	2007	8	Late Arrival Delay	60565.1
+953	2008	8	Late Arrival Delay	38693.23
+954	2009	8	Late Arrival Delay	36649.65
+955	2010	8	Late Arrival Delay	36529.84
+956	2011	8	Late Arrival Delay	35913.91
+957	2012	8	Late Arrival Delay	41526.53
+958	2013	8	Late Arrival Delay	45221.39
+959	2014	8	Late Arrival Delay	40431.98
+960	2015	8	Late Arrival Delay	34757.3
+961	2004	9	Late Arrival Delay	20461.92
+962	2005	9	Late Arrival Delay	24689.23
+963	2006	9	Late Arrival Delay	39599.49
+964	2007	9	Late Arrival Delay	31928.36
+965	2008	9	Late Arrival Delay	19557.1
+966	2009	9	Late Arrival Delay	19802.12
+967	2010	9	Late Arrival Delay	24192.95
+968	2011	9	Late Arrival Delay	25525.87
+969	2012	9	Late Arrival Delay	28046.21
+970	2013	9	Late Arrival Delay	29652.43
+971	2014	9	Late Arrival Delay	28502.93
+972	2015	9	Late Arrival Delay	19514.45
+973	2004	10	Late Arrival Delay	32084.11
+974	2005	10	Late Arrival Delay	29691.49
+975	2006	10	Late Arrival Delay	48846.99
+976	2007	10	Late Arrival Delay	41682.54
+977	2008	10	Late Arrival Delay	21789.94
+978	2009	10	Late Arrival Delay	38309.12
+979	2010	10	Late Arrival Delay	30194.87
+980	2011	10	Late Arrival Delay	23202.01
+981	2012	10	Late Arrival Delay	31592.89
+982	2013	10	Late Arrival Delay	31027.06
+983	2014	10	Late Arrival Delay	33720.66
+984	2015	10	Late Arrival Delay	19466.64
+985	2004	11	Late Arrival Delay	33890.57
+986	2005	11	Late Arrival Delay	29515.74
+987	2006	11	Late Arrival Delay	39661.88
+988	2007	11	Late Arrival Delay	36729
+989	2008	11	Late Arrival Delay	25073.02
+990	2009	11	Late Arrival Delay	16439.64
+991	2010	11	Late Arrival Delay	29407.18
+992	2011	11	Late Arrival Delay	22541.85
+993	2012	11	Late Arrival Delay	23871.23
+994	2013	11	Late Arrival Delay	29113.45
+995	2014	11	Late Arrival Delay	31048.63
+996	2015	11	Late Arrival Delay	24237.54
+997	2004	12	Late Arrival Delay	49257.72
+998	2005	12	Late Arrival Delay	46822.47
+999	2006	12	Late Arrival Delay	54201.11
+1000	2007	12	Late Arrival Delay	66946.17
+1001	2008	12	Late Arrival Delay	60676.33
+1002	2009	12	Late Arrival Delay	45693.44
+1003	2010	12	Late Arrival Delay	49535.93
+1004	2011	12	Late Arrival Delay	25627.07
+1005	2012	12	Late Arrival Delay	42275.78
+1006	2013	12	Late Arrival Delay	58157.91
+1007	2014	12	Late Arrival Delay	42110.3
+1008	2015	12	Late Arrival Delay	36624.32

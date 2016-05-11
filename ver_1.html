@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+  <style>
+      h2 {
+        text-align: center;
+      }
+  </style>
+
+  <script type="text/javascript">
+      function draw(data) {
+      
+      /*
+        D3.js setup code
+      */
+
+          "use strict";
+          var margin = 75,
+              width = 1400 - margin,
+              height = 450 - margin,
+              height2 = 150;
+
+          d3.select("body")
+            .append("h2")
+            .text("Arrival Delay") 
+
+
+          var svg1 = d3.select("body")
+            .append("svg")
+              .attr("width", width + margin)
+              .attr("height", height + margin)
+            .append('g')
+                .attr('class','chart');
+          
+          var svg2 = d3.select("body")
+            .append("svg")
+              .attr("width", width + margin)
+              .attr("height", height2 + margin)
+            .append('g')
+                .attr('class','chart');        
+
+      /*
+        Dimple.js Chart construction code
+      */
+
+          var myChart = new dimple.chart(svg1, data);
+          var x = myChart.addCategoryAxis("x", "year"); 
+          x.timePeriod = d3.time.months;
+          x.timeInterval = 1;
+          myChart.addMeasureAxis("y", "X.arr_delay");
+          myChart.addSeries(null, dimple.plot.line);
+          myChart.addSeries(null, dimple.plot.scatter);
+          myChart.draw();
+
+          var myChart2 = new dimple.chart(svg2, data);
+          var x = myChart2.addCategoryAxis("x", "X.month"); 
+          x.timePeriod = d3.time.months;
+          x.timeInterval = 1;
+          myChart2.addMeasureAxis("y", "X.arr_delay");
+          myChart2.addSeries(null, dimple.plot.bar);
+          myChart2.draw();
+
+
+        };
+      </script>
+  </head>
+<body>
+  <script type="text/javascript">
+  /*
+    Use D3 (not dimple.js) to load the TSV file
+    and pass the contents of it to the draw function
+    */
+  d3.tsv("by_month.tsv", draw);
+  </script>
+</body>
+</html>
