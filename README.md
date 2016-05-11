@@ -61,34 +61,35 @@ I also designed to use the same legend to control two related charts at the same
 
 ## Interations and Feedbacks
 
-> Version 1 (Static Charts)
+**Version 1 (Static Charts)**
 Set the two charts position and selected the chart type. Successfully displayed one set of data. 
 Issue: Cannot display multiple causes in one chart.  
 
-> Version 2 (Static Charts)
+**Version 2 (Static Charts)**
 - Solved the issue of displaying multiple delay cuases in one chart.
 - Added legend and repositioned the charts. 
 
 Issue: Need to change the legend name
 
-> Version 3 (Interactive Charts)
+**Version 3 (Interactive Charts)**
 - Added interaction to the charts. 
 
 And I showed the charts to my friends and family.
 
-> Version 4 (After feedback)
+**Version 4 (After feedback)**
+
 **Feedback:** People like playing with the charts. But in general they think it need more explanations. More specifically, my friend Sungwon want to see the year/month trend of the delay data. Mirosha thinks that without reading the small texts on the right it is hard to tell that you can interact with the graph. My dad thinks it is good to include the total arrival data.   
 
 - Added a third line chart to show the year/month trend as suggested by my friend. 
 
 - Reorganized the data to include the total operations as well as the total delays. 
-*In the process of reorganizing data and I discovered that I was using the delay minutes counts instead of the operations. Fixed that issue as well.* 
-*And after adding the data, I found the stacked chart no longer make sense. I considering different solution, I decided to filter the added information out for two charts that focus on the cause of the delay.* 
+> *In the process of reorganizing data and I discovered that I was using the delay minutes counts instead of the operations. Fixed that issue as well.* 
+> *And after adding the data, I found the stacked chart no longer make sense. I considering different solution, I decided to filter the added information out for two charts that focus on the cause of the delay.* 
 
 - Added definition of the delay causese and the instruction for interaction at the start of the page. 
 
 
-> Version 5 (Final Version)
+**Version 5 (Final Version)**
 
 - Added short notes at the bottom of the charts. 
 
